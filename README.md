@@ -1,4 +1,4 @@
-### [brjeong😎](https://github.com/brjeong/brjeong.github.io "Hello!")
+### brjeong😎
 🤸‍♂️back-end developer
 
 <!--
